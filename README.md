@@ -63,26 +63,6 @@ The implementation emphasizes
 - Kernel Logistic Regression
 - Kernel Perceptron
 
----
-
-## Repository Structure
-
-```text
-.
-├── src/
-│   ├── algorithms
-│   ├── preprocessing
-│   ├── visualization
-│   ├── training
-│   └── evaluation
-│
-├── figures/
-├── report/
-├── data/
-└── README.md
-```
-
----
 
 ## Features
 
@@ -131,7 +111,7 @@ Example outputs include
 
 ## Learning Outcomes
 
-Through this project the following concepts were explored:
+Through this project, the following concepts were explored:
 
 - Eigenvalue decomposition
 - Covariance analysis
