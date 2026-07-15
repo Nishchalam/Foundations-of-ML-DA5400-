@@ -134,8 +134,3 @@ Institution: Indian Institute of Technology Madras
 
 Instructor: Prof. Arun Rajkumar
 
----
-
-## License
-
-This repository is intended for educational and research purposes.
