@@ -1,0 +1,13 @@
+Evaluation metrics on test set
+Model: NB
+Test folder: data/test
+Label file used: data/test/test_labels.csv
+
+Accuracy: 0.930000
+Precision: 1.000000
+Recall: 0.860000
+F1: 0.924731
+TP: 43
+TN: 50
+FP: 0
+FN: 7
